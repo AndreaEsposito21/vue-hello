@@ -8,7 +8,8 @@ var app = new Vue(
     {
         el: '#root',
         data: {
-            message: 'Hello World'
+            message: 'Hello World',
+            images: "https://www.worldexcellence.com/wp-content/uploads/2019/06/world-excellence-le-fonti.jpg"
         }
     }
 );
